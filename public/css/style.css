@@ -10,10 +10,9 @@ body{
 }
 
 .bg-category h2 {
-    color:#dfdce3;
-    font-size: 42px;
+    color:#f7b733;
+    font-size: px;
     font-weight: bold;
-    font-size: 48px;
 }
 
 .btn-primary {
@@ -27,6 +26,7 @@ body{
  }
 
 .card-header {
-    background-color: #f7b733;
+    background-color: #fff;
     border-bottom: 1px solid #f7b733;
 }
+

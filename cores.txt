@@ -1,0 +1,4 @@
+azul #4abdac
+laranja #fc4a1a
+amarelo #f7b733
+clear #dfdce3
