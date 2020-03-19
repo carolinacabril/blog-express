@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600&display=swap');
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.bg-category {
+    background-color: #4abdac ;
+    height: 100vh;
+}
+
+.bg-category h2 {
+    color:#dfdce3;
+    font-size: 42px;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.btn-primary {
+   background-color:#fc4a1a;
+   border-color: #fc4a1a;
+}
+
+.btn-primary:hover {
+    background-color:hsl(13, 94%, 51%);
+    border-color: hsl(13, 94%, 51%) ;
+ }
+
+.card-header {
+    background-color: #f7b733;
+    border-bottom: 1px solid #f7b733;
+}
